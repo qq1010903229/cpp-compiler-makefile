@@ -4,4 +4,3 @@ compiler:
 script:
   - make -f "Makefile1.mak"
   - make -f "Makefile2.mak"
-  - make -f "Makefile3.mak"
