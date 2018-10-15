@@ -1,3 +1,3 @@
 all:
-	g++.exe compiler.cpp -o compiler.exe -Wall
-	./compiler.exe
+	g++ compiler.cpp -o compiler -Wall
+	./compiler
